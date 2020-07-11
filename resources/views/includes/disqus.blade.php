@@ -12,7 +12,7 @@ this.page.identifier = "post-{{ $post->slug }}"; // Replace PAGE_IDENTIFIER with
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://thoriq-azizs-blog.disqus.com/embed.js';
+s.src = 'YOUR_LINK_DISQUS';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
