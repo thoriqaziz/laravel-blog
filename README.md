@@ -7,5 +7,5 @@
 - Jalankan **php artisan migrate**
 - Jalankan **php artisan db:seed**
 
-**Video demo: **
+**Video demo: https://youtu.be/tS7iKu2k2Wc**
 
