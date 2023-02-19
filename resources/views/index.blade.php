@@ -27,7 +27,7 @@
                     <div class="intro">{!! substr($post->content, 0, 200) !!}...</div>
                     <a class="more-link" href="{{ route('post.single', ['slug' => $post->slug ]) }}">Read more &rarr;</a>
                 </div>
-                <!--//media-body-->
+                
             </div>
             <!--//media-->
         </div>
